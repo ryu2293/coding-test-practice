@@ -14,6 +14,6 @@
 | 백준 | 17140 | 이차원 배열과 연산 | [Link](./BOJ/BOJ_17140.java) | [Velog Link](https://velog.io/@ryu2293/%EB%B0%B1%EC%A4%80-17140%EB%B2%88-%EC%9D%B4%EC%B0%A8%EC%9B%90-%EB%B0%B0%EC%97%B4%EA%B3%BC-%EC%97%B0%EC%82%B0-Java-%EC%9E%90%EB%B0%94) |
 | 백준 | 14503 | 로봇 청소기 | [Link](./BOJ/BOJ_14503.java) | [Velog Link](https://velog.io/@ryu2293/%EB%B0%B1%EC%A4%80-14503%EB%B2%88-%EB%A1%9C%EB%B4%87-%EC%B2%AD%EC%86%8C%EA%B8%B0-Java-%EC%9E%90%EB%B0%94) |
 | 백준 | 15684 | 사다리 조작 | [Link](./BOJ/BOJ_15684.java) | [Velog Link](https://velog.io/@ryu2293/%EB%B0%B1%EC%A4%80-15684%EB%B2%88-%EC%82%AC%EB%8B%A4%EB%A6%AC-%EC%A1%B0%EC%9E%91-Java-%EC%9E%90%EB%B0%94) |
-| 백준 | 1726 | 로봇 | [Link](./BOJ/BOJ_1726.java) | [Velog Link](https://velog.io/@ryu2293/%EB%B0%B1%EC%A4%80-1726%EB%B2%88-%ED%83%88%EC%B6%9C-Java-%EC%9E%90%EB%B0%94) |
+| 백준 | 1725 | 로봇 | [Link](./BOJ/BOJ_1725.java) | [Velog Link](https://velog.io/@ryu2293/%EB%B0%B1%EC%A4%80-1726%EB%B2%88-%ED%83%88%EC%B6%9C-Java-%EC%9E%90%EB%B0%94) |
 | 백준 | 3055 | 탈출 | [Link](./BOJ/BOJ_3055.java) | [Velog Link](https://velog.io/@ryu2293/%EB%B0%B1%EC%A4%80-3055%EB%B2%88-%ED%83%88%EC%B6%9C-Java-%EC%9E%90%EB%B0%94) |
 | 백준 | 17090 | 미로 탈출하기 | [Link](./BOJ/BOJ_17090.java) | [Velog Link](https://velog.io/@ryu2293/%EB%B0%B1%EC%A4%80-17090-%EB%AF%B8%EB%A1%9C-%ED%83%88%EC%B6%9C%ED%95%98%EA%B8%B0Java) |

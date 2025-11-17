@@ -17,3 +17,4 @@
 | 백준 | 1725 | 로봇 | [Link](./BOJ/BOJ_1725.java) | [Velog Link](https://velog.io/@ryu2293/%EB%B0%B1%EC%A4%80-1726%EB%B2%88-%ED%83%88%EC%B6%9C-Java-%EC%9E%90%EB%B0%94) |
 | 백준 | 3055 | 탈출 | [Link](./BOJ/BOJ_3055.java) | [Velog Link](https://velog.io/@ryu2293/%EB%B0%B1%EC%A4%80-3055%EB%B2%88-%ED%83%88%EC%B6%9C-Java-%EC%9E%90%EB%B0%94) |
 | 백준 | 17090 | 미로 탈출하기 | [Link](./BOJ/BOJ_17090.java) | [Velog Link](https://velog.io/@ryu2293/%EB%B0%B1%EC%A4%80-17090-%EB%AF%B8%EB%A1%9C-%ED%83%88%EC%B6%9C%ED%95%98%EA%B8%B0Java) |
+| 백준 | 1244 | 스위치 켜고 끄기 | [Link](./BOJ/BOJ_1244.java) | [Velog Link](https://velog.io/@ryu2293/%EB%B0%B1%EC%A4%80-1244-%EC%8A%A4%EC%9C%84%EC%B9%98-%EC%BC%9C%EA%B3%A0-%EB%81%84%EA%B8%B0) |

@@ -19,4 +19,4 @@
 | 백준 | 17090 | 미로 탈출하기 | [Link](./BOJ/BOJ_17090.java) | [Velog Link](https://velog.io/@ryu2293/%EB%B0%B1%EC%A4%80-17090-%EB%AF%B8%EB%A1%9C-%ED%83%88%EC%B6%9C%ED%95%98%EA%B8%B0Java) |
 | 백준 | 1244 | 스위치 켜고 끄기 | [Link](./BOJ/BOJ_1244.java) | [Velog Link](https://velog.io/@ryu2293/%EB%B0%B1%EC%A4%80-1244-%EC%8A%A4%EC%9C%84%EC%B9%98-%EC%BC%9C%EA%B3%A0-%EB%81%84%EA%B8%B0) |
 | 백준 | 1275 | 커피숍 2 | [Link](./BOJ/BOJ_1275.java) | [Velog Link](https://velog.io/@ryu2293/%EB%B0%B1%EC%A4%80-1275-%EC%BB%A4%ED%94%BC%EC%88%8D-2%EC%84%B8%EA%B7%B8%EB%A8%BC%ED%8A%B8-%ED%8A%B8%EB%A6%AC) |
-| 백준 | 1275 | 구간 합 구하기 | [Link](./BOJ/BOJ_2042.java) | [Velog Link](https://velog.io/@ryu2293/%EB%B0%B1%EC%A4%80-2042-%EA%B5%AC%EA%B0%84-%ED%95%A9-%EA%B5%AC%ED%95%98%EA%B8%B0%EC%84%B8%EA%B7%B8%EB%A8%BC%ED%8A%B8-%ED%8A%B8%EB%A6%AC) |
+| 백준 | 14391 | 종이조각 | [Link](./BOJ/BOJ_14391.java) | [Velog Link](https://velog.io/@ryu2293/%EB%B0%B1%EC%A4%80Java-14391%EB%B2%88-%EC%A2%85%EC%9D%B4-%EC%A1%B0%EA%B0%81-%EB%B9%84%ED%8A%B8%EB%A7%88%EC%8A%A4%ED%81%AC-%EC%99%84%EC%A0%84%ED%83%90%EC%83%89) |

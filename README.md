@@ -21,3 +21,4 @@
 | 백준 | 1275 | 커피숍 2 | [Link](./BOJ/BOJ_1275.java) | [Velog Link](https://velog.io/@ryu2293/%EB%B0%B1%EC%A4%80-1275-%EC%BB%A4%ED%94%BC%EC%88%8D-2%EC%84%B8%EA%B7%B8%EB%A8%BC%ED%8A%B8-%ED%8A%B8%EB%A6%AC) |
 | 프로그래머스 | Lv.2 | 타겟넘버 | [Link](./PRG/PRG_타겟넘버.java) | [Velog Link](https://velog.io/@ryu2293/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4Java-Lv.2-%ED%83%80%EA%B2%9F-%EB%84%98%EB%B2%84) |
 | 백준 | 2606 | 바이러스 | [Link](./BOJ/BOJ_2606.java) | [Velog Link](https://velog.io/@ryu2293/%EB%B0%B1%EC%A4%80Java-2606-%EB%B0%94%EC%9D%B4%EB%9F%AC%EC%8A%A4) |
+| 프로그래머스 | Lv.2 | 행렬 테두리 회전하기 | [Link](./PRG/PRG_행렬 테두리 회전하기.java. | [Velog Link](https://velog.io/@ryu2293/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4Java-Lv2-%ED%96%89%EB%A0%AC-%ED%85%8C%EB%91%90%EB%A6%AC-%ED%9A%8C%EC%A0%84%ED%95%98%EA%B8%B0) |

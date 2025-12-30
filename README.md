@@ -24,3 +24,4 @@
 | 프로그래머스 | Lv.2 | 행렬 테두리 회전하기 | [Link](./PRG/PRG_행렬테두리회전하기.java) | [Velog Link](https://velog.io/@ryu2293/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4Java-Lv2-%ED%96%89%EB%A0%AC-%ED%85%8C%EB%91%90%EB%A6%AC-%ED%9A%8C%EC%A0%84%ED%95%98%EA%B8%B0) |
 | 백준 | 7576 | 토마토 | [Link](./BOJ/BOJ_7576.java) | [Velog Link](https://velog.io/@ryu2293/%EB%B0%B1%EC%A4%80Java-%EA%B3%A8%EB%93%9C5-%ED%86%A0%EB%A7%88%ED%86%A0-yf870hv7) |
 | 프로그래머스 | Lv.2 | 기능개발 | [Link](./PRG/PRG_기능개발.java) | [Velog Link](https://velog.io/@ryu2293/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4Java-Lv2-%EA%B8%B0%EB%8A%A5%EA%B0%9C%EB%B0%9C) |
+| 백준 | 2003 | 수들의 합 2 | [Link](./BOJ/BOJ_2003.java) | [Velog Link](https://velog.io/@ryu2293/%EB%B0%B1%EC%A4%80Java-2003-%EC%88%98%EB%93%A4%EC%9D%98-%ED%95%A92) |

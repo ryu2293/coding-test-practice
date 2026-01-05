@@ -27,3 +27,4 @@
 | 백준 | 2003 | 수들의 합 2 | [Link](./BOJ/BOJ_2003.java) | [Velog Link](https://velog.io/@ryu2293/%EB%B0%B1%EC%A4%80Java-2003-%EC%88%98%EB%93%A4%EC%9D%98-%ED%95%A92) |
 | 프로그래머스 | Lv.1 | 체육복 | [Link](./PRG/PRG_체육복.java) | [Velog Link](https://velog.io/@ryu2293/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4Java-Lv1-%EC%B2%B4%EC%9C%A1%EB%B3%B5) |
 | 백준 | 1931 | 회의실 배정| [Link](./BOJ/BOJ_1931.java) | [Velog Link](https://velog.io/@ryu2293/%EB%B0%B1%EC%A4%80Java-1931-%ED%9A%8C%EC%9D%98%EC%8B%A4-%EB%B0%B0%EC%A0%95) |
+| 백준 | 14502 | 연구소| [Link](./BOJ/BOJ_14502.java) | [Velog Link]([https://velog.io/@ryu2293/%EB%B0%B1%EC%A4%80Java-1931-%ED%9A%8C%EC%9D%98%EC%8B%A4-%EB%B0%B0%EC%A0%95](https://velog.io/@ryu2293/%EB%B0%B1%EC%A4%80Java-14502-%EC%97%B0%EA%B5%AC%EC%86%8C)) |

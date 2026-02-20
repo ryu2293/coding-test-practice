@@ -40,4 +40,5 @@
 | 프로그래머스 | Lv.2 | 이진 변환 반복하기 | [Link](./PRG/PRG_이진변환반복하기.java) | [Velog Link](https://velog.io/@ryu2293/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4Java-Lv.2-%EC%9D%B4%EC%A7%84-%EB%B3%80%ED%99%98-%EB%B0%98%EB%B3%B5%ED%95%98%EA%B8%B0) |
 | 프로그래머스 | Lv.2 | 영어 끝말잇기 | [Link](./PRG/PRG_영어끝말잇기.java) | [Velog Link](https://velog.io/@ryu2293/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4Java-Lv.2-%EC%9D%B4%EC%A7%84-%EB%B3%80%ED%99%98-%EB%B0%98%EB%B3%B5%ED%95%98%EA%B8%B0) |
 | 프로그래머스 | Lv.2 | 짝지어 제거하기 | [Link](./PRG/PRG_짝지어제거하기.java) | [Velog Link](https://velog.io/@ryu2293/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4Java-Lv.2-%EC%A7%9D%EC%A7%80%EC%96%B4-%EC%A0%9C%EA%B1%B0%ED%95%98%EA%B8%B0) |
+| 프로그래머스 | Lv.2 | [1차] 뉴스 클러스터링 | [Link](./PRG/PRG_뉴스클러스터링.java) | [Velog Link](https://velog.io/@ryu2293/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4Java-Lv.2-1%EC%B0%A8-%EB%89%B4%EC%8A%A4-%ED%81%B4%EB%9F%AC%EC%8A%A4%ED%84%B0%EB%A7%81-zapu2bzt) |
 

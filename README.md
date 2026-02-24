@@ -46,5 +46,7 @@
 | 프로그래머스 | Lv.3 | 네트워크 | [Link](./PRG/PRG_네트워크.java) | [Velog Link](https://velog.io/@ryu2293/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4Java-Lv.3-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC) |
 | 프로그래머스 | Lv.3 | 네트워크(Union-Find) | [Link](./PRG/PRG_네트워크(union-find).java) | [Velog Link](https://velog.io/@ryu2293/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4Java-Lv.3-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%ACUnion-Find) |
 | 프로그래머스 | Lv.2 | 전화번호 목록 | [Link](./PRG/PRG_전화번호목록.java) | [Velog Link](https://velog.io/@ryu2293/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4Java-Lv.2-%EC%A0%84%ED%99%94%EB%B2%88%ED%98%B8-%EB%AA%A9%EB%A1%9D) |
+| 프로그래머스 | Lv.3 | 단어 변환 | [Link](./PRG/PRG_단어변환.java) | [Velog Link](https://velog.io/@ryu2293/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4Java-Lv.3-%EB%8B%A8%EC%96%B4-%EB%B3%80%ED%99%98) |
+| 프로그래머스 | Lv.2 | 카펫 | [Link](./PRG/PRG_카펫.java) | [Velog Link](https://velog.io/@ryu2293/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4Java-Lv.2-%EC%B9%B4%ED%8E%AB) |
 
 

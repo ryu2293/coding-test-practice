@@ -50,5 +50,7 @@
 | 프로그래머스 | Lv.2 | 카펫 | [Link](./PRG/PRG_카펫.java) | [Velog Link](https://velog.io/@ryu2293/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4Java-Lv.2-%EC%B9%B4%ED%8E%AB) |
 | 프로그래머스 | Lv.2 | 구명보트 | [Link](./PRG/PRG_구명보트.java) | [Velog Link](https://velog.io/@ryu2293/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4Java-Lv.2-%EA%B5%AC%EB%AA%85%EB%B3%B4%ED%8A%B8) |
 | 프로그래머스 | Lv.2 | 조이스틱 | [Link](./PRG/PRG_조이스틱.java) | [Velog Link](https://velog.io/@ryu2293/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4Java-Lv.2-%EC%A1%B0%EC%9D%B4%EC%8A%A4%ED%8B%B1) |
+| 프로그래머스 | Lv.3 | 등굣길 | [Link](./PRG/PRG_등굣길.java) | [Velog Link](https://velog.io/@ryu2293/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4Java-Lv.3-%EB%93%B1%EA%B5%A3%EA%B8%B8) |
+| 프로그래머스 | Lv.3 | 입국심사 | [Link](./PRG/PRG_입국심사.java) | [Velog Link](https://velog.io/@ryu2293/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-Lv.3-%EC%9E%85%EA%B5%AD%EC%8B%AC%EC%82%AC) |
 
 

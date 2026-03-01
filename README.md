@@ -55,4 +55,5 @@
 | 프로그래머스 | Lv.1 | 신규 아이디 추천 | [Link](./PRG/PRG_신규아이디추천.java) | [Velog Link](https://velog.io/@ryu2293/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4JAVA-Lv.1-%EC%8B%A0%EA%B7%9C-%EC%95%84%EC%9D%B4%EB%94%94-%EC%B6%94%EC%B2%9C) |
 | 프로그래머스 | Lv.2 | 파일명 정렬 | [Link](./PRG/PRG_파일명정렬.java) | [Velog Link](https://velog.io/@ryu2293/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4JAVA-Lv.2-%ED%8C%8C%EC%9D%BC%EB%AA%85-%EC%A0%95%EB%A6%AC) |
 
+| 프로그래머스 | Lv.2 | 할인 행사 | [Link](./PRG/PRG_할인행사.java) | [Velog Link](https://velog.io/@ryu2293/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4JAVA-Lv.2-%ED%95%A0%EC%9D%B8-%ED%96%89%EC%82%AC) |
 

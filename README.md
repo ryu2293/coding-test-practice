@@ -57,4 +57,5 @@
 | 프로그래머스 | Lv.2 | 할인 행사 | [Link](./PRG/PRG_할인행사.java) | [Velog Link](https://velog.io/@ryu2293/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4JAVA-Lv.2-%ED%95%A0%EC%9D%B8-%ED%96%89%EC%82%AC) |
 | 프로그래머스 | Lv.2 | 무인도 여행 | [Link](./PRG/PRG_무인도여행.java) | [Velog Link](https://velog.io/@ryu2293/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4JAVA-Lv.2-%EB%AC%B4%EC%9D%B8%EB%8F%84-%EC%97%AC%ED%96%89) |
 | 프로그래머스 | Lv.2 | 2 x n 타일링 | [Link](./PRG/PRG_2xn타일링.java) | [Velog Link](https://velog.io/@ryu2293/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4JAVA-Lv.2-2-x-n-%ED%83%80%EC%9D%BC%EB%A7%81) |
+| 프로그래머스 | Lv.3 | 디스크 컨트롤러 | [Link](./PRG/PRG_디스크컨트롤러.java) | [Velog Link](https://velog.io/@ryu2293/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4JAVA-Lv.2-%EB%94%94%EC%8A%A4%ED%81%AC-%EC%BB%A8%ED%8A%B8%EB%A1%A4%EB%9F%AC) |
 

@@ -62,4 +62,5 @@
 | 프로그래머스 | Lv.2 | 오픈채팅방 | [Link](./PRG/PRG_오픈채팅방.java) | [Velog Link](https://velog.io/@ryu2293/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4JAVA-Lv.2-%ED%98%B8%ED%85%94-%EB%8C%80%EC%8B%A4) |
 | 프로그래머스 | Lv.3 | 섬 연결하기 | [Link](./PRG/PRG_섬연결하기.java) | [Velog Link](https://velog.io/@ryu2293/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4JAVA-Lv.3-%EC%84%AC-%EC%97%B0%EA%B2%B0%ED%95%98%EA%B8%B0) |
 | 프로그래머스 | Lv.3 | 섬 연결하기(Union-Find) | [Link](./PRG/PRG_섬연결하기(Union-Find).java) | [Velog Link](https://velog.io/@ryu2293/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4JAVA-Lv.3-%EC%84%AC-%EC%97%B0%EA%B2%B0%ED%95%98%EA%B8%B0-%ED%81%AC%EB%A3%A8%EC%8A%A4%EC%B9%BCUnion-Find) |
-
+| 백준 | 1448 | 삼각형 만들기 | [Link](./PRG/PRG_1448.java) | [Velog Link](https://velog.io/@ryu2293/%EB%B0%B1%EC%A4%80JAVA-1448-%EC%82%BC%EA%B0%81%ED%98%95-%EB%A7%8C%EB%93%A4%EA%B8%B0) |
+| 백준 | 2805 | 나무 자르기 | [Link](./PRG/PRG_2805.java) | [Velog Link](https://velog.io/@ryu2293/%EB%B0%B1%EC%A4%80JAVA-2805-%EB%82%98%EB%AC%B4-%EC%9E%90%EB%A5%B4%EA%B8%B0) |

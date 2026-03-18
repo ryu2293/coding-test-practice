@@ -74,3 +74,4 @@
 | 프로그래머스 | Lv.4 | 도둑질 | [Link](./PRG/PRG_도둑질.java) | [Velog Link](https://velog.io/@ryu2293/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4Java-Lv.4-%EB%8F%84%EB%91%91%EC%A7%88) |
 | 프로그래머스 | Lv.3 | 순위 | [Link](./PRG/PRG_순위.java) | [Velog Link](https://velog.io/@ryu2293/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4Java-Lv.3-%EC%88%9C%EC%9C%84) |
 | 프로그래머스 | Lv.3 | 여행경로 | [Link](./PRG/PRG_여행경로.java) | [Velog Link](https://velog.io/@ryu2293/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4Java-Lv.3-%EC%97%AC%ED%96%89%EA%B2%BD%EB%A1%9C) |
+| 프로그래머스 | Lv.3 | 아이템 줍기 | [Link](./PRG/PRG_아이템줍기.java) | [Velog Link](https://velog.io/@ryu2293/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4Java-Lv.3-%EC%95%84%EC%9D%B4%ED%85%9C-%EC%A4%8D%EA%B8%B0) |

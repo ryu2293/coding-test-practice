@@ -76,3 +76,6 @@
 | 프로그래머스 | Lv.3 | 여행경로 | [Link](./PRG/PRG_여행경로.java) | [Velog Link](https://velog.io/@ryu2293/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4Java-Lv.3-%EC%97%AC%ED%96%89%EA%B2%BD%EB%A1%9C) |
 | 프로그래머스 | Lv.3 | 아이템 줍기 | [Link](./PRG/PRG_아이템줍기.java) | [Velog Link](https://velog.io/@ryu2293/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4Java-Lv.3-%EC%95%84%EC%9D%B4%ED%85%9C-%EC%A4%8D%EA%B8%B0) |
 | 프로그래머스 | Lv.3 | 표 편집 | [Link](./PRG/PRG_표편집.java) | [Velog Link](https://velog.io/@ryu2293/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4Java-Lv.3-%ED%91%9C-%ED%8E%B8%EC%A7%91) |
+| 프로그래머스 | Lv.3 | 파괴되지 않은 건물 | [Link](./PRG/PRG_파괴되지않은건물.java) | [Velog Link](https://velog.io/@ryu2293/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4Java-Lv.3-%ED%8C%8C%EA%B4%B4%EB%90%98%EC%A7%80-%EC%95%8A%EC%9D%80-%EA%B1%B4%EB%AC%BC) |
+| 프로그래머스 | Lv.3 | 블록 이동하기 | [Link](./PRG/PRG_블록이동하기.java) | [Velog Link](https://velog.io/@ryu2293/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4Java-Lv.3-%EB%B8%94%EB%A1%9D-%EC%9D%B4%EB%8F%99%ED%95%98%EA%B8%B0) |
+| 백준 | 11403 | 경로 찾기 | [Link](./BOJ/BOJ_11403.java) | [Velog Link](https://velog.io/@ryu2293/%EB%B0%B1%EC%A4%80Java-11403-%EA%B2%BD%EB%A1%9C-%EC%B0%BE%EA%B8%B0) |

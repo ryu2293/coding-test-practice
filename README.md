@@ -85,3 +85,5 @@
 | 프로그래머스 | Lv.3 | 보석 쇼핑 | [Link](./PRG/PRG_보석쇼핑.java) | [Velog Link](https://velog.io/@ryu2293/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4Java-Lv.3-%EB%B3%B4%EC%84%9D-%EC%87%BC%ED%95%91) |
 | 백준 | 2512 | 예산 | [Link](./BOJ/BOJ_2512.java) | [Velog Link](https://velog.io/@ryu2293/%EB%B0%B1%EC%A4%80Java-2512-%EC%98%88%EC%82%B0) |
 | 프로그래머스 | Lv.3 | 양과 늑대 | [Link](./PRG/PRG_양과늑대.java) | [Velog Link](https://velog.io/@ryu2293/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4Java-Lv.3-%EC%96%91%EA%B3%BC-%EB%8A%91%EB%8C%80) |
+| 프로그래머스 | Lv.3 | 숫자 변환하기 - BFS | [Link](./PRG/PRG_숫자변환하기_BFS.java) | [Velog Link](https://velog.io/@ryu2293/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4JAVA-Lv.2-%EC%88%AB%EC%9E%90-%EB%B3%80%ED%99%98%ED%95%98%EA%B8%B0) |
+| 프로그래머스 | Lv.3 | 숫자 변환하기 - DP | [Link](./PRG/PRG_숫자변환하기_DP.java) | [Velog Link](https://velog.io/@ryu2293/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4JAVA-Lv.2-%EC%88%AB%EC%9E%90-%EB%B3%80%ED%99%98%ED%95%98%EA%B8%B0) |

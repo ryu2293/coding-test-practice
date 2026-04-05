@@ -87,3 +87,4 @@
 | 프로그래머스 | Lv.3 | 양과 늑대 | [Link](./PRG/PRG_양과늑대.java) | [Velog Link](https://velog.io/@ryu2293/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4Java-Lv.3-%EC%96%91%EA%B3%BC-%EB%8A%91%EB%8C%80) |
 | 프로그래머스 | Lv.3 | 숫자 변환하기 - BFS | [Link](./PRG/PRG_숫자변환하기_BFS.java) | [Velog Link](https://velog.io/@ryu2293/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4JAVA-Lv.2-%EC%88%AB%EC%9E%90-%EB%B3%80%ED%99%98%ED%95%98%EA%B8%B0) |
 | 프로그래머스 | Lv.3 | 숫자 변환하기 - DP | [Link](./PRG/PRG_숫자변환하기_DP.java) | [Velog Link](https://velog.io/@ryu2293/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4JAVA-Lv.2-%EC%88%AB%EC%9E%90-%EB%B3%80%ED%99%98%ED%95%98%EA%B8%B0) |
+| 프로그래머스 | Lv.3 | 베스트앨범 | [Link](./PRG/PRG_베스트앨범.java) | [Velog Link](https://velog.io/@ryu2293/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4JAVA-Lv.3-%EB%B2%A0%EC%8A%A4%ED%8A%B8%EC%95%A8%EB%B2%94) |

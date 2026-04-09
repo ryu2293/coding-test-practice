@@ -88,3 +88,4 @@
 | 프로그래머스 | Lv.3 | 숫자 변환하기 - BFS | [Link](./PRG/PRG_숫자변환하기_BFS.java) | [Velog Link](https://velog.io/@ryu2293/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4JAVA-Lv.2-%EC%88%AB%EC%9E%90-%EB%B3%80%ED%99%98%ED%95%98%EA%B8%B0) |
 | 프로그래머스 | Lv.3 | 숫자 변환하기 - DP | [Link](./PRG/PRG_숫자변환하기_DP.java) | [Velog Link](https://velog.io/@ryu2293/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4JAVA-Lv.2-%EC%88%AB%EC%9E%90-%EB%B3%80%ED%99%98%ED%95%98%EA%B8%B0) |
 | 프로그래머스 | Lv.3 | 베스트앨범 | [Link](./PRG/PRG_베스트앨범.java) | [Velog Link](https://velog.io/@ryu2293/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4JAVA-Lv.3-%EB%B2%A0%EC%8A%A4%ED%8A%B8%EC%95%A8%EB%B2%94) |
+| 프로그래머스 | Lv.2 | 순위 검색 | [Link](./PRG/PRG_순위검색.java) | [Velog Link](https://velog.io/@ryu2293/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4JAVA-Lv.2-%EC%88%9C%EC%9C%84-%EA%B2%80%EC%83%89) |

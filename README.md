@@ -91,3 +91,4 @@
 | 프로그래머스 | Lv.2 | 순위 검색 | [Link](./PRG/PRG_순위검색.java) | [Velog Link](https://velog.io/@ryu2293/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4JAVA-Lv.2-%EC%88%9C%EC%9C%84-%EA%B2%80%EC%83%89) |
 | 프로그래머스 | Lv.3 | 징검다리 건너기 | [Link](./PRG/PRG_징검다리건너기.java) | [Velog Link](https://velog.io/@ryu2293/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4JAVA-Lv.3-%EC%A7%95%EA%B2%80%EB%8B%A4%EB%A6%AC-%EA%B1%B4%EB%84%88%EA%B8%B0) |
 | 프로그래머스 | Lv.3 | 퍼즐 조각 채우기 | [Link](./PRG/PRG_퍼즐조각채우기.java) | [Velog Link](https://velog.io/@ryu2293/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4JAVA-Lv.3-%ED%8D%BC%EC%A6%90-%EC%A1%B0%EA%B0%81-%EC%B1%84%EC%9A%B0%EA%B8%B0) |
+| 프로그래머스 | Lv.2 | 방문 길이 | [Link](./PRG/PRG_방문길이.java) | [Velog Link](https://velog.io/@ryu2293/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4JAVA-Lv.2-%EB%B0%A9%EB%AC%B8-%EA%B8%B8%EC%9D%B4) |
